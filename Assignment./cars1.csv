@@ -1,0 +1,51 @@
+Make,Model,Year,Horsepower,Cylinders
+Bugatti,Chiron Super Sport 300+,2019,1578,16
+Bugatti,Veyron Super Sport,2010,1200,16
+Bugatti,Veyron,2005,1001,16
+Aston Martin,Valkyrie AMR Pro,2022,1160,12
+Pagani,Imola,2020,827,12
+Lamborghini,Sian,2019,819,12
+Pagani,Zonda R,2010,800,12
+Pagani,Huayra BC,2016,789,12
+Ferrari,812 Superfast,2017,781,12
+Apollo,Intensa Emozione,2019,780,12
+Lamborghini,Aventador S,2016,730,12
+Aston Martin,DBS Superleggera,2018,715,12
+Ferrari,Enzo,2002,660,12
+Aston Martin,DB11,2016,630,12
+Bugatti,EB110 Super Sport,1992,603,12
+Lamborghini,Huracan Performante,2017,640,10
+Audi,R8 V10 Plus,2018,610,10
+Lexus,LFA,2012,552,10
+Koenigsegg,Jesko Absolut,2022,1600,8
+Koenigsegg,Jesko Hydra,2023,1601,8
+Koenigsegg,Regera,2016,1500,8
+Koenigsegg,Agera RS,2015,1161,8
+McLaren,Speedtail,2018,1035,8
+Mercedes-AMG,Project One,2022,1000,8
+Mercedes-AMG,Project One Black Series,2023,1002,8
+McLaren,Elva,2020,804,8
+Chevrolet,Corvette ZR1,2019,755,8
+Chevrolet,Corvette ZR1,2020,756,8
+Mercedes-AMG,GT Black Series,2020,720,8
+Ferrari,488 Pista,2018,710,8
+McLaren,675LT,2015,666,8
+BMW,M8 Competition,2020,617,8
+Aston Martin,Vantage,2021,503,8
+McLaren,Artura,2021,671,6
+Porsche,911 Turbo S,2021,641,6
+Nissan,GT-R Nismo,2020,600,6
+Porsche,911 GT1,1996,544,6
+Porsche,911 GT3 RS,2019,520,6
+Aspark,Owl,2020,2012,4
+Lotus,Type 130,2022,1973,4
+Rimac,Nevera,2021,1914,4
+Rimac,C_Two GT,2021,1917,4
+Rimac,C_Two Touring,2022,1915,4
+Rimac,C_Two Sport,2022,1916,4
+Pininfarina,Battista Anniversario,2021,1900,4
+Pininfarina,Battista GT,2023,1901,4
+Pininfarina,Battista Anniversario GT,2023,1902,4
+NIO,EP9,2016,1341,4
+Koenigsegg,Gemera Launch Edition,2022,1701,3
+Koenigsegg,Gemera Mega-GT,2023,1700,3
